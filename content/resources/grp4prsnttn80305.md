@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c64d9a83-9513-5163-f0b5-ff6181706379
 resourcetype: Document
 title: Chemical and Clapeyron-induced buoyancy at the 660 km discontinuity
 uid: 39a0c683-911b-f4ac-6f77-79c8dd7b72c7

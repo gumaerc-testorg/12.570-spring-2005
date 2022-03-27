@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 087e1abc-a82a-8f20-097e-cd400d77a558
 resourcetype: Document
 title: Thermal and Chemical Evolution of the Earth
 uid: 985c8e5b-6bbb-a180-f2cd-ffde6b1c2b59

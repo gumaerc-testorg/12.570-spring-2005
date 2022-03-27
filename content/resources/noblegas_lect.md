@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 087e1abc-a82a-8f20-097e-cd400d77a558
 resourcetype: Document
 title: Noble Gas Constraints on Mantle Structure
 uid: 210a11a7-5c20-f1cd-879f-85536f568f95

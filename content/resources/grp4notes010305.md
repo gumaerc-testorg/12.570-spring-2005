@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 087e1abc-a82a-8f20-097e-cd400d77a558
 resourcetype: Document
 title: "Phase Transitions in the Earth\u2019s Mantle"
 uid: 21a43a3d-eda0-91e4-46ec-c0217179232f

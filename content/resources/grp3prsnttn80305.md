@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c64d9a83-9513-5163-f0b5-ff6181706379
 resourcetype: Document
 title: 'The effect of water on the 410-km discontinuity: An experiment study'
 uid: 3995d7b7-c2d1-89cf-6cfe-2f16afb6140a

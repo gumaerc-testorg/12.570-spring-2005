@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c64d9a83-9513-5163-f0b5-ff6181706379
 resourcetype: Document
 title: Why does Venus lack a magnetic field?
 uid: 29f4c68c-3ea0-318b-ad16-b9f3b59c5b08
