@@ -5,6 +5,7 @@ file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-th
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'The effect of water on the 410-km discontinuity: An experiment study'
 uid: 3995d7b7-c2d1-89cf-6cfe-2f16afb6140a
 ---
 Slide presentation on the effect of water on the 410-km discontinuity.
-

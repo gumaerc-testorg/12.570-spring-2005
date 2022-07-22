@@ -6,6 +6,7 @@ file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-th
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Why does Venus lack a magnetic field?
 uid: 29f4c68c-3ea0-318b-ad16-b9f3b59c5b08
 ---
 Example of student work: a group presentation on why Venus lacks a magnetic field.
-

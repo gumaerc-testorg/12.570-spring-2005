@@ -6,6 +6,7 @@ file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-th
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Chemical and Clapeyron-induced buoyancy at the 660 km discontinuity
 uid: 39a0c683-911b-f4ac-6f77-79c8dd7b72c7
 ---
 Example of student work: a group presentation on chemical and Clapeyron-induced buoyancy at the 660 km discontinuity.
-

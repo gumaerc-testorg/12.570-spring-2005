@@ -7,6 +7,7 @@ file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-th
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Thermal and Chemical Evolution of the Earth
 uid: 985c8e5b-6bbb-a180-f2cd-ffde6b1c2b59
 ---
 Lecture presentation on thermal and chemical evolution of the earth. Topics include current heat flow, heat sources, heat transfer, boundary layers, and models of evolution.
-
