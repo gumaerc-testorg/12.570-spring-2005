@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Sample lecture notes and presentations.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 087e1abc-a82a-8f20-097e-cd400d77a558
 ---
@@ -38,7 +42,7 @@ Geodynamics: Introduction - Parameterized Convection
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lectureoconnell)) (Courtesy of Richard O'Connell. Used with permission.)
+({{% resource_link 985c8e5b-6bbb-a180-f2cd-ffde6b1c2b59 "PDF" %}}) (Courtesy of Richard O'Connell. Used with permission.)
 
 
 {{< tdclose >}}
@@ -86,7 +90,7 @@ Core Energetics: Geodynamo Constraints on Heat Generation and Transport
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/240205_notes)) (Courtesy of Jeremy Bloxham, scribed by Rosalee Lamm, Veronika Soukhovitskaya, Laurel Senft, Sandeep Rekhi, and Shichun Huang. Used with permission.)
+({{% resource_link 68c47423-8340-31df-f30b-f40b491dca81 "PDF" %}}) (Courtesy of Jeremy Bloxham, scribed by Rosalee Lamm, Veronika Soukhovitskaya, Laurel Senft, Sandeep Rekhi, and Shichun Huang. Used with permission.)
 
 
 {{< tdclose >}}
@@ -110,7 +114,7 @@ Mineral Physics: Phase Transitions and Implications for Mantle Dynamics
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/grp4notes010305)) (Courtesy of Sang-heon Shim, scribed by Maureen Long, Sabine Stanley, Karin Louzada, and Scott Lundin. Used with permission.)
+({{% resource_link 21a43a3d-eda0-91e4-46ec-c0217179232f "PDF" %}}) (Courtesy of Sang-heon Shim, scribed by Maureen Long, Sabine Stanley, Karin Louzada, and Scott Lundin. Used with permission.)
 
 
 {{< tdclose >}}
@@ -154,7 +158,7 @@ Noble Gas Constraints on Mantle Structure
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/noblegas_lect)) (Courtesy of Sujoy Mukhopadhyay. Used with permission.)
+({{% resource_link 210a11a7-5c20-f1cd-879f-85536f568f95 "PDF" %}}) (Courtesy of Sujoy Mukhopadhyay. Used with permission.)
 
 
 {{< tdclose >}}
