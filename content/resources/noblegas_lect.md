@@ -4,6 +4,7 @@ description: Lecture presentation on noble gas constraints on mantle structure, 
   isotope geochemistry, neon isotope composition, geochemistry of argon, and noble
   gas concentrations.
 file: /courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/210a11a75c20f1cd879f85536f568f95_noblegas_lect.pdf
+file_size: 400642
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
